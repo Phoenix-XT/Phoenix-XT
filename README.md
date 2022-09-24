@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phoenix-XT
+- 👋 Hi, I’m Christiana
 - 👀 I’m interested in Software Testing for cloud services..
 - 🌱 I’m currently learning Software Automation 
 - 💞️ I’m looking to collaborate on any project I can learn from.
